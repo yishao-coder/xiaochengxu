@@ -1,0 +1,50 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/community/community", 
+    "pages/user/user",
+    "pages/mytrip/mytrip",
+    "pages/login/index",
+    "pages/logs/logs" 
+  ],
+  "window":{
+    "backgroundTextStyle":"dark",
+    "navigationBarBackgroundColor": "#ff0000",
+    "navigationBarTitleText": "我的小程序",
+    "navigationBarTextStyle":"black",
+    "enablePullDownRefresh":true,
+    "backgroundColor":"#fff"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",  
+        "text": "首页",
+        "iconPath": "icon/_home.png",
+        "selectedIconPath": "icon/home.png"
+      },
+      {
+        "pagePath": "pages/mytrip/mytrip",
+        "text": "我的旅程",
+        "iconPath": "icon/_mytrip.png",
+        "selectedIconPath": "icon/mytrip.png"
+      },
+      {
+        "pagePath": "pages/user/user",
+        "text": "个人中心",
+        "iconPath": "icon/_my.png",
+        "selectedIconPath": "icon/my.png"
+      },
+      {
+        "pagePath": "pages/community/community",
+        "text": "社区",
+        "iconPath": "icon/_community.png",
+        "selectedIconPath": "icon/community.png"
+      }
+    ],
+    "color":"#0094ff"
+    
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

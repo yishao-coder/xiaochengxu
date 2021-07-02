@@ -1,0 +1,4 @@
+<!--pages/community/community.wxml-->
+<text>
+用户名</text>
+<view><text selectable="true" >分享内容.....</text></view>

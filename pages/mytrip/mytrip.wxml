@@ -1,0 +1,12 @@
+<!--pages/mytrip/mytrip.wxml-->
+<text decode="true">计划旅行时间表
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+输入。。。。。
+&nbsp;
+&nbsp;
+百度地图API规划路线
+</text>
+

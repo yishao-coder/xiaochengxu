@@ -1,0 +1,13 @@
+<!--pages/user/user.wxml-->
+<navigator url="/pages/login/index">登录页面</navigator>
+<!-- <button type="primary" plain>登录</button> -->
+<text decode="true">
+&nbsp;
+&nbsp;
+旅行时间表
+&nbsp;
+路线
+&nbsp;
+我的日志
+</text>
+
